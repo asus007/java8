@@ -1,9 +1,9 @@
 package fr.viseo.booking;
 
 import java.util.Date;
-import java.util.List;
 
-import fr.viseo.booking.flights.Flight;
+import fr.viseo.booking.Customer;
+import fr.viseo.booking.Passenger;
 
 public abstract class Booking {
 	
